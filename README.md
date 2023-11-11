@@ -1,11 +1,11 @@
 # InstalingSolver 🤯
-![Real-time](https://raw.githubusercontent.com/Dadik11/InstalingSolver/main/main/assets/preview.gif)
+![Real-time](https://raw.githubusercontent.com/Dadik11/InstalingSolver/main/assets/preview.gif)
 Skrypt do wklejenia w konsole przeglądarki, który rozwiąże za ciebie sesje [instaling](https://instaling.pl)
 
 ---
 
 ## Ja chce tylko żeby działało
-1. Skopiuj wszystko z [tej strony](https://raw.githubusercontent.com/Dadik11/InstalingSolvermain/main/script.js)
+1. Skopiuj wszystko z [tej strony](https://raw.githubusercontent.com/Dadik11/InstalingSolver/main/script.js)
 2. Rozpocznij sesje na instaling
 3. Otwórz konsole (CTRL+SHIFT+I / CTRL+SHIFT+C)
 4. Wklej wszystko i kliknij enter
