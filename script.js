@@ -1,5 +1,5 @@
 const SETTINGS = {
-    'delay_between_interactions': 300
+    'delay_between_interactions': 2500
 };
 
 
