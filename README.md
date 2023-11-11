@@ -1,5 +1,5 @@
 # InstalingSolver 🤯
-![Real-time](https://raw.githubusercontent.com/Dadik11/InstalingSolver/main/assets/preview.gif)
+![Real-time](https://raw.githubusercontent.com/Dadik11/InstalingSolver/main/assets/fast.gif)
 Skrypt do wklejenia w konsole przeglądarki, który rozwiąże za ciebie sesje [instaling](https://instaling.pl)
 
 ---
