@@ -5,7 +5,7 @@ Skrypt do wklejenia w konsole przeglądarki, który rozwiąże za ciebie sesje [
 ---
 
 ## Ja chce tylko żeby działało
-1. Skopiuj wszystko z [tej strony](https://raw.githubusercontent.com/Dadik11/InstalingSolver/main/script.js)
+1. Skopiuj wszystko z [tej strony](https://raw.githubusercontent.com/Dadik11/InstalingSolver/main/script.js) lub wybierz jedną z wersji po prawej
 2. Rozpocznij sesje na instaling
 3. Otwórz konsole (CTRL+SHIFT+I / CTRL+SHIFT+C)
 4. Wklej wszystko i kliknij enter
