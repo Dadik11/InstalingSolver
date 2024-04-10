@@ -16,6 +16,6 @@ Aby zmienić ustawienia (np. delay) zmień wartości SETTINGS na samej górze sk
 
 ## Dostane bana?
 Od razu: nie<br/>
-Po jakimś czasie: nie wiem XD, możesz się poświęcić, a gdy (jeśli) dostaniesz bana otwórz problem na github
+Po jakimś czasie: nie wiem (wątpię) możesz się poświęcić, a gdy (jeśli) dostaniesz bana otwórz problem na github
 
-##### nie odpowiadam za wszelkie jedynki które mogą być skutkiem używania tego skryptu XD
+##### nie odpowiadam za wszelkie jedynki które mogą być skutkiem używania tego skryptu
